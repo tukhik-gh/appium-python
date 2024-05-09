@@ -71,6 +71,10 @@ Before you begin, ensure you have met the following requirements:
     - [ ] Port: 4723
     - [ ] Path: /wd/hub
     - [ ] Allow Unauthorized Certificates
+        - [ ]  list devices
+  ```sh
+    adb .devices
+    ```
     - [ ] Select your capabilities
     - [ ] Start server
           
