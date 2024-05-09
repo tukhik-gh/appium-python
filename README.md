@@ -1,4 +1,4 @@
-# appium-python-android-qt-testing
+# appium-python
 This project is designed to facilitate automated testing of QT Android applications using the Appium framework with Python.
 
 ## Prerequisites
