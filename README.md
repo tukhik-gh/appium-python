@@ -33,13 +33,13 @@ Before you begin, ensure you have met the following requirements:
   * Select the first one and click on “Install” button.
   * Follow the instructions described in the settings <a href="https://aurigait.com/blog/how-to-setup-appium-in-ubuntu/">link</a>.
 
-#### Step 4 :- Installing appium desktop 
+#### Step 3 :- Installing appium desktop 
  * <a href="https://github.com/appium/appium-desktop/releases/tag/v1.22.3-4">Release v1.22.3-4 · appium/appium-desktop · GitHub</a> -> go to this site and download the Appium-server-GUI -linux AppImage
    
-#### Step 5 :- Installing appium inspector.
+#### Step 4 :- Installing appium inspector.
  * <a href="https://github.com/appium/appium-inspector/releases">Releases · appium/appium-inspector · GitHub</a> -> go to this site and download the Appium-Inspector-GUI- linux AppImage.
 
-#### Step 6 :- Set up the environment variables in the bash file.
+#### Step 5 :- Set up the environment variables in the bash file.
   * Open the terminal (ctrl + alt + t)
   * Run this command :-
     ```sh
